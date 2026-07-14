@@ -1,6 +1,22 @@
 {
   "version": 1,
   "name": "Raydan Sticker Pack",
-  "updated": "",
-  "stickers": []
+  "updated": "2026-07-14",
+  "author": "Raydan",
+  "stickers": [
+    {
+      "id": "001",
+      "title": "",
+      "file": "stickers/001.png",
+      "tags": [],
+      "favorite": false
+    },
+    {
+      "id": "002",
+      "title": "",
+      "file": "stickers/002.png",
+      "tags": [],
+      "favorite": false
+    }
+  ]
 }
